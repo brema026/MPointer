@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libMPointerLib.a CMakeFiles/MPointerLib.dir/src/MPointerGC.cpp.obj
+C:\mingw64\bin\ranlib.exe libMPointerLib.a

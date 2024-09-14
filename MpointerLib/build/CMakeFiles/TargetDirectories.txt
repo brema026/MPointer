@@ -1,0 +1,7 @@
+C:/Users/Brene/OneDrive/Escritorio/MpointerLib/build/CMakeFiles/MPointerLib.dir
+C:/Users/Brene/OneDrive/Escritorio/MpointerLib/build/CMakeFiles/edit_cache.dir
+C:/Users/Brene/OneDrive/Escritorio/MpointerLib/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Brene/OneDrive/Escritorio/MpointerLib/build/CMakeFiles/list_install_components.dir
+C:/Users/Brene/OneDrive/Escritorio/MpointerLib/build/CMakeFiles/install.dir
+C:/Users/Brene/OneDrive/Escritorio/MpointerLib/build/CMakeFiles/install/local.dir
+C:/Users/Brene/OneDrive/Escritorio/MpointerLib/build/CMakeFiles/install/strip.dir
